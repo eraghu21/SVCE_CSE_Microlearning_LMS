@@ -4,3 +4,4 @@ openpyxl
 reportlab
 pyAesCrypt
 gunicorn
+python_version >= "3.8"
